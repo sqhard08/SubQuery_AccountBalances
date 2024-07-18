@@ -1,4 +1,4 @@
-1specVersion: 0.0.1
+specVersion: 0.0.1
 description: AccountBalances
 repository: ''
 schema: ./schema.graphql
